@@ -4,7 +4,7 @@
 
 **Text in Bold**
 
-* Text in Italic *
+*Text in Italic*
 
   ## Colors
   * Red
@@ -15,7 +15,7 @@
  ```c
  int main()
  {
- printf("Hello world\n");
+ printf("Hello World\n");
  }
  ```
   
