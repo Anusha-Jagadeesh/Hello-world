@@ -4,7 +4,7 @@
 
 **Text in Bold**
 
-*Text in Italic*
+* Text in Italic *
 
   ## Colors
   * Red
