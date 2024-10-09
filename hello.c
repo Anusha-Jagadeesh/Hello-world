@@ -5,7 +5,7 @@ int main()
 int a = 1;
 int b = 2;
 int c = 3;
-printf(" %d add a + b \
+printf("The sum of a + b is: %d\n", sum);
 
 return 0;
 }
